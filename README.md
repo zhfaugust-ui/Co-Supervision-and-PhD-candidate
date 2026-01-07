@@ -1,2 +1,3 @@
 # Co-Supervision-and-PhD-candidate
-code, sources and data information
+code and sources
+Please check the upload files named code and sources.
